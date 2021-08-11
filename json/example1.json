@@ -2,11 +2,16 @@
     "bot" : {
         "info" : {
         "name" : "bot",
-        "keyloc" : "./.env",       
+        "keyloc" : "./.env"       
         },
         "startup":
         {
-            
+         "print" : "Bot is running"   
+        },
+        "events" : {
+            "join" : {
+                "print" : "User joined"
+            }
         }
     }
 }
