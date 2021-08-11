@@ -1,0 +1,12 @@
+{
+    "bot" : {
+        "info" : {
+        "name" : "bot",
+        "keyloc" : "./.env",       
+        },
+        "startup":
+        {
+            
+        }
+    }
+}
