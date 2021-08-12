@@ -21,6 +21,9 @@
                 "description" : "Shows all bot commands",
                 "usage" : "!help",
                 "group" : "utility"
+                },
+                "function" : {
+                    "send" : "Help"
                 }
             }
         }
